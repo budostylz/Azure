@@ -1,2 +1,2 @@
-# Azure_Chambers
+# Azure
 Microsoft Azure Applications
