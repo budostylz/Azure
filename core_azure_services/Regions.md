@@ -13,7 +13,7 @@ The Regions page will display all the available Azure regions, including their s
 You can use the Azure CLI to list all available regions for your subscription. Run the following command:
 
 bash
-Copy code
+
 ```az account list-locations -o table```
 This will display a table of all available Azure regions, including their names and display names.
 
