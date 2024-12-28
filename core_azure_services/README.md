@@ -6,8 +6,14 @@
 ## Check Azure Region Pairs
 [Check Azure Region Pairs](https://chatgpt.com/share/e/676f54c3-5288-8009-b75c-726610379514)
 
+## Azure cross-region replication
+[Azure cross-region replication](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure)
+
 ## Want More Info? Contact Us
 [BudoApps](https://calendly.com/budoapps-support/30min)
 
-## Azure cross-region replication
-[Azure cross-region replication](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure)
+------------------------------------------
+
+## Labs
+
+[Create a New User in Azure Active Directory (Azure AD)](https://chatgpt.com/share/e/6770355d-f190-8009-9736-b59a8a20c141)
