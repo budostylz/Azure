@@ -7,3 +7,5 @@
 ## Want More Info? Contact Us
 [BudoApps](https://calendly.com/budoapps-support/30min)
 
+## Azure cross-region replication
+[Azure cross-region replication](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure)
