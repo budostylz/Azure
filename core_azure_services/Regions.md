@@ -14,7 +14,7 @@ You can use the Azure CLI to list all available regions for your subscription. R
 
 bash
 Copy code
-az account list-locations -o table
+```az account list-locations -o table```
 This will display a table of all available Azure regions, including their names and display names.
 
 3. Azure PowerShell
