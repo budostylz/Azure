@@ -9,8 +9,6 @@
 ## Azure cross-region replication
 [Azure cross-region replication](https://learn.microsoft.com/en-us/azure/reliability/cross-region-replication-azure)
 
-## Want More Info? Contact Us
-[BudoApps](https://calendly.com/budoapps-support/30min)
 
 ------------------------------------------
 
@@ -19,3 +17,10 @@
 [Lab exercises for Microsoft AZ 900 Exam](https://chatgpt.com/share/e/67703695-1758-8009-bbd1-b36748f5692b)
 
 [Create a New User in Azure Active Directory (Azure AD)](https://chatgpt.com/share/e/6770355d-f190-8009-9736-b59a8a20c141)
+
+------------------------------------------
+
+## Want More Info? Contact Us
+[BudoApps](https://calendly.com/budoapps-support/30min)
+
+
