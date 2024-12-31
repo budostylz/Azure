@@ -1,5 +1,12 @@
 # Core Azure Services
 
+## Microsoft Azure Fundamentals
+[Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+
+## Udemy - AZ-900: Microsoft Azure Fundamentals Certification - 2024
+[AZ-900: Microsoft Azure Fundamentals Certification - 2024
+](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-certification/?couponCode=24T7MT123024)
+
 ## Check Azure Regions in Azure
 [Check Azure Regions in Azure](https://chatgpt.com/share/e/676f50b2-d8bc-8009-83c6-fe13f2c00772)
 
@@ -23,4 +30,5 @@
 ## Want More Info? Contact Us
 [BudoApps](https://calendly.com/budoapps-support/30min)
 
-
+## Custom Container Creation Steps
+[Custom Container Creation Steps](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-certification/learn/lecture/18850954#overview)
