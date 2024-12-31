@@ -32,7 +32,8 @@
 ## Sample Container Repo
 [Azure Container Instances Hello World](https://github.com/Azure-Samples/aci-helloworld)
 
-
+## Container Creation (ACI)
+[Container Creation (ACI)](https://chatgpt.com/share/e/67733c96-da4c-8009-af64-ebdb95e5c9c4)
 
 
 
