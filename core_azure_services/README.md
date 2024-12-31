@@ -32,3 +32,6 @@
 
 ## Custom Container Creation Steps
 [Custom Container Creation Steps](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-certification/learn/lecture/18850954#overview)
+
+## Sample Container Repo
+[Azure Container Instances Hello World](https://github.com/Azure-Samples/aci-helloworld)
