@@ -1,5 +1,10 @@
 # Azure
-Microsoft Azure Applications
+Microsoft Azure
+
+## Training
+[Azure Fundamentals](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-certification)
+
+[Cloud Developer using Microsoft Azure](https://www.udacity.com/enrollment/nd081)
 
 ## Products available by region
 [Products available by region](https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region#products-by-region_tab0)
