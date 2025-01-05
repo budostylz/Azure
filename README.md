@@ -60,4 +60,11 @@ Microsoft Azure Applications
 
 [Microsoft Azure Fundamentals: Describe Azure architecture and services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/?WT.mc_id=udacity_learn-wwl)
 
+[Manage resources in Azure](https://learn.microsoft.com/en-us/training/paths/manage-resources-in-azure/?WT.mc_id=udacity_learn-wwl)
+
+[Move Azure resources to another resource group](https://learn.microsoft.com/en-us/training/modules/move-azure-resources-another-resource-group/?WT.mc_id=udacity_learn-wwl)
+
+[Control and organize Azure resources with Azure Resource Manager](https://learn.microsoft.com/en-us/training/modules/control-and-organize-with-azure-resource-manager/?WT.mc_id=udacity_learn-wwl)
+
+[Deploy Azure infrastructure by using JSON ARM templates](https://learn.microsoft.com/en-us/training/modules/create-azure-resource-manager-template-vs-code/?WT.mc_id=udacity_learn-wwl)
 
