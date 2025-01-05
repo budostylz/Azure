@@ -74,3 +74,12 @@ Microsoft Azure
 [Deploy Azure infrastructure by using JSON ARM templates](https://learn.microsoft.com/en-us/training/modules/create-azure-resource-manager-template-vs-code/?WT.mc_id=udacity_learn-wwl)
 
 [Azure Command-Line Interface (CLI) documentation](https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest&WT.mc_id=udacity_learn-wwl)
+
+##
+[List of TCP and UDP port numbers](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+
+
+-----------------------------------------
+
+## Tasks
+[Connect to Created VM - ACI](https://chatgpt.com/share/e/677b157d-4780-8009-a01f-7300154ab012)
