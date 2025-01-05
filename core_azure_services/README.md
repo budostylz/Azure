@@ -3,6 +3,9 @@
 ## Microsoft Azure Fundamentals
 [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
 
+## Microsoft Certified: Azure Developer Associate
+[Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?WT.mc_id=udacity_cert-wwl&practice-assessment-type=certification)
+
 ## Udemy - AZ-900: Microsoft Azure Fundamentals Certification - 2024
 [AZ-900: Microsoft Azure Fundamentals Certification - 2024
 ](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-certification/?couponCode=24T7MT123024)
@@ -36,17 +39,40 @@
 [Container Creation (ACI)](https://chatgpt.com/share/e/67733c96-da4c-8009-af64-ebdb95e5c9c4)
 
 
+## Create a Virtual Network, Add Virtual Machines on Virtual Network, Communicate Between Virtual Machines
+[Create a Virtual Network, Add Virtual Machines on Virtual Network, Communicate Between Virtual Machines](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-certification/learn/lecture/15553254#overview)
+
+## AZCopy
+[AZCopy](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?tabs=dnf)
 
 
+------------------------------------------
+## Resources
 
-
-
-
-
-
+## RFC 1918
+[RFC 1918](https://datatracker.ietf.org/doc/html/rfc1918)
 
 
 ------------------------------------------
 
+## Learning
+[Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/?WT.mc_id=udacity_learn-wwl)
+
+[Foundations of cloud computing for developers](https://learn.microsoft.com/en-us/training/modules/cmu-cloud-computing-overview/?WT.mc_id=udacity_learn-wwl)
+
+[Economics](https://learn.microsoft.com/en-us/training/modules/cmu-cloud-economics/?WT.mc_id=udacity_learn-wwl)
+
+[Microsoft Azure Fundamentals: Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/?WT.mc_id=udacity_learn-wwl)
+
+[Align requirements with cloud types and service models in Azure](https://learn.microsoft.com/en-us/training/modules/align-requirements-in-azure/?WT.mc_id=udacity_learn-wwl)
+
+[Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/?WT.mc_id=udacity_learn-wwl)
+
+[Manage services with the Azure portal](https://learn.microsoft.com/en-us/training/modules/tour-azure-portal/?WT.mc_id=udacity_learn-wwl)
+
 ## Want More Info? Contact Us
 [BudoApps](https://calendly.com/budoapps-support/30min)
+
+
+
+
