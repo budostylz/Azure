@@ -34,4 +34,30 @@ Microsoft Azure Applications
 ## Azure Cosmos DB - Database for the AI Era
 [Azure Cosmos DB - Database for the AI Era](https://learn.microsoft.com/en-us/azure/cosmos-db/introduction)
 
+-------------------------------------------------
+
+## Resources
+
+[Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/?WT.mc_id=udacity_learn-wwl)
+
+[Foundations of cloud computing for developers](https://learn.microsoft.com/en-us/training/modules/cmu-cloud-computing-overview/?WT.mc_id=udacity_learn-wwl)
+
+[Economics](https://learn.microsoft.com/en-us/training/modules/cmu-cloud-economics/?WT.mc_id=udacity_learn-wwl)
+
+[Microsoft Azure Fundamentals: Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/?WT.mc_id=udacity_learn-wwl)
+
+[Align requirements with cloud types and service models in Azure](https://learn.microsoft.com/en-us/training/modules/align-requirements-in-azure/?WT.mc_id=udacity_learn-wwl)
+
+[Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/?WT.mc_id=udacity_learn-wwl)
+
+[Manage services with the Azure portal](https://learn.microsoft.com/en-us/training/modules/tour-azure-portal/?WT.mc_id=udacity_learn-wwl)
+
+[Implement a code workflow in your build pipeline by using Git and GitHub](https://learn.microsoft.com/en-us/training/modules/implement-code-workflow/?WT.mc_id=udacity_learn-wwl)
+
+[How to install the Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
+
+[Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree?WT.mc_id=udacity_learn-wwl)
+
+[Microsoft Azure Fundamentals: Describe Azure architecture and services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/?WT.mc_id=udacity_learn-wwl)
+
 

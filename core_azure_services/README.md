@@ -53,23 +53,6 @@
 [RFC 1918](https://datatracker.ietf.org/doc/html/rfc1918)
 
 
-------------------------------------------
-
-## Learning
-[Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/?WT.mc_id=udacity_learn-wwl)
-
-[Foundations of cloud computing for developers](https://learn.microsoft.com/en-us/training/modules/cmu-cloud-computing-overview/?WT.mc_id=udacity_learn-wwl)
-
-[Economics](https://learn.microsoft.com/en-us/training/modules/cmu-cloud-economics/?WT.mc_id=udacity_learn-wwl)
-
-[Microsoft Azure Fundamentals: Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/?WT.mc_id=udacity_learn-wwl)
-
-[Align requirements with cloud types and service models in Azure](https://learn.microsoft.com/en-us/training/modules/align-requirements-in-azure/?WT.mc_id=udacity_learn-wwl)
-
-[Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/?WT.mc_id=udacity_learn-wwl)
-
-[Manage services with the Azure portal](https://learn.microsoft.com/en-us/training/modules/tour-azure-portal/?WT.mc_id=udacity_learn-wwl)
-
 ## Want More Info? Contact Us
 [BudoApps](https://calendly.com/budoapps-support/30min)
 
