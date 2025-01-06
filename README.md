@@ -75,11 +75,18 @@ Microsoft Azure
 
 [Azure Command-Line Interface (CLI) documentation](https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest&WT.mc_id=udacity_learn-wwl)
 
-##
 [List of TCP and UDP port numbers](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+
+[Introduction to Azure virtual machines](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-virtual-machines/?WT.mc_id=udacity_learn-wwl)
+
+[Linux on Azure](https://learn.microsoft.com/en-us/training/paths/azure-linux/?WT.mc_id=udacity_learn-wwl)
+
+[Deploy a website with Azure virtual machines](https://learn.microsoft.com/en-us/training/paths/deploy-a-website-with-azure-virtual-machines/?WT.mc_id=udacity_learn-wwl)
+
+
 
 
 -----------------------------------------
 
 ## Tasks
-[Connect to Created VM - ACI](https://chatgpt.com/share/e/677b157d-4780-8009-a01f-7300154ab012)
+[Create VM and Deploy Flask App](https://learn.udacity.com/nanodegrees/nd081/parts/cd1756/lessons/ls14314/concepts/6f2691f1-4da7-4879-95c7-97003c263fe7?lesson_tab=lesson)
