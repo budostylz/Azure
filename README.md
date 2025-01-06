@@ -1,5 +1,5 @@
 # Azure
-Microsoft Azure
+[Microsoft Azure](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?ef_id=_k_CjwKCAiAm-67BhBlEiwAEVftNtpsR5BlFNKbqVEwC6uVxIxXVuT1D6wLuLwzEqtdIwmEB-x4W0-8uhoCZq0QAvD_BwE_k_&OCID=AIDcmmfq865whp_SEM__k_CjwKCAiAm-67BhBlEiwAEVftNtpsR5BlFNKbqVEwC6uVxIxXVuT1D6wLuLwzEqtdIwmEB-x4W0-8uhoCZq0QAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAm-67BhBlEiwAEVftNtpsR5BlFNKbqVEwC6uVxIxXVuT1D6wLuLwzEqtdIwmEB-x4W0-8uhoCZq0QAvD_BwE)
 
 ## Training
 [Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
