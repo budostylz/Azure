@@ -83,10 +83,15 @@ Microsoft Azure
 
 [Deploy a website with Azure virtual machines](https://learn.microsoft.com/en-us/training/paths/deploy-a-website-with-azure-virtual-machines/?WT.mc_id=udacity_learn-wwl)
 
+[Host a web application with Azure App Service](https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/?WT.mc_id=udacity_learn-wwl)
 
+[Manage an App Service plan in Azure](https://learn.microsoft.com/en-us/azure/app-service/app-service-plan-manage?WT.mc_id=udacity_learn-wwl)
 
+[Deploy a website to Azure with Azure App Service](https://learn.microsoft.com/en-us/training/paths/deploy-a-website-with-azure-app-service/?WT.mc_id=udacity_learn-wwl)
 
 -----------------------------------------
 
 ## Tasks
 [Create VM and Deploy Flask App](https://learn.udacity.com/nanodegrees/nd081/parts/cd1756/lessons/ls14314/concepts/6f2691f1-4da7-4879-95c7-97003c263fe7?lesson_tab=lesson)
+
+[Create App Service and Deploy Test App](https://learn.udacity.com/nanodegrees/nd081/parts/cd1756/lessons/ls14314/concepts/ee3fd21b-06e9-4507-b4c3-b8a26ad4b7fb?lesson_tab=lesson)
